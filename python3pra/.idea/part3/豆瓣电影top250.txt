@@ -1,0 +1,246 @@
+{"排名": "1", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg", "片名": "肖申克的救赎", "评分": "9.6", "评价": "希望让人自由。"}
+{"排名": "2", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg", "片名": "霸王别姬", "评分": "9.5", "评价": "风华绝代。"}
+{"排名": "3", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg", "片名": "这个杀手不太冷", "评分": "9.4", "评价": "怪蜀黍和小萝莉不得不说的故事。"}
+{"排名": "4", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg", "片名": "阿甘正传", "评分": "9.4", "评价": "一部美国近现代史。"}
+{"排名": "5", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg", "片名": "美丽人生", "评分": "9.5", "评价": "最美的谎言。"}
+{"排名": "6", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg", "片名": "泰坦尼克号", "评分": "9.3", "评价": "失去的才是永恒的。 "}
+{"排名": "7", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg", "片名": "千与千寻", "评分": "9.3", "评价": "最好的宫崎骏，最好的久石让。 "}
+{"排名": "8", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg", "片名": "辛德勒的名单", "评分": "9.4", "评价": "拯救一个人，就是拯救整个世界。"}
+{"排名": "9", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg", "片名": "盗梦空间", "评分": "9.3", "评价": "诺兰给了我们一场无法盗取的梦。"}
+{"排名": "10", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg", "片名": "机器人总动员", "评分": "9.3", "评价": "小瓦力，大人生。"}
+{"排名": "11", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg", "片名": "三傻大闹宝莱坞", "评分": "9.2", "评价": "英俊版憨豆，高情商版谢耳朵。"}
+{"排名": "12", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p511146807.jpg", "片名": "海上钢琴师", "评分": "9.2", "评价": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 "}
+{"排名": "13", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg", "片名": "忠犬八公的故事", "评分": "9.2", "评价": "永远都不能忘记你所爱的人。"}
+{"排名": "14", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg", "片名": "放牛班的春天", "评分": "9.2", "评价": "天籁一般的童声，是最接近上帝的存在。 "}
+{"排名": "15", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg", "片名": "大话西游之大圣娶亲", "评分": "9.2", "评价": "一生所爱。"}
+{"排名": "16", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg", "片名": "楚门的世界", "评分": "9.1", "评价": "如果再也不能见到你，祝你早安，午安，晚安。"}
+{"排名": "17", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p537668599.jpg", "片名": "龙猫", "评分": "9.1", "评价": "人人心中都有个龙猫，童年就永远不会消失。"}
+{"排名": "18", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190556185.jpg", "片名": "教父", "评分": "9.2", "评价": "千万不要记恨你的对手，这样会让你失去理智。"}
+{"排名": "19", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2206088801.jpg", "片名": "星际穿越", "评分": "9.2", "评价": "爱是一种力量，让我们超越时空感知它的存在。"}
+{"排名": "20", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg", "片名": "熔炉", "评分": "9.2", "评价": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。"}
+{"排名": "21", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg", "片名": "触不可及", "评分": "9.2", "评价": "满满温情的高雅喜剧。"}
+{"排名": "22", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg", "片名": "乱世佳人", "评分": "9.2", "评价": "Tomorrow is another day."}
+{"排名": "23", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2233971046.jpg", "片名": "无间道", "评分": "9.1", "评价": "香港电影史上永不过时的杰作。"}
+{"排名": "24", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1312700744.jpg", "片名": "当幸福来敲门", "评分": "8.9", "评价": "平民励志片。 "}
+{"排名": "25", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg", "片名": "怦然心动", "评分": "8.9", "评价": "真正的幸福是来自内心深处。"}
+{"排名": "26", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910901025.jpg", "片名": "天堂电影院", "评分": "9.1", "评价": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。"}
+{"排名": "27", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg", "片名": "十二怒汉", "评分": "9.4", "评价": "1957年的理想主义。 "}
+{"排名": "28", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1181775734.jpg", "片名": "鬼子来了", "评分": "9.2", "评价": "对敌人的仁慈，就是对自己残忍。"}
+{"排名": "29", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg", "片名": "少年派的奇幻漂流", "评分": "9.0", "评价": "瑰丽壮观、无人能及的冒险之旅。"}
+{"排名": "30", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg", "片名": "蝙蝠侠：黑暗骑士", "评分": "9.1", "评价": "无尽的黑暗。"}
+{"排名": "31", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513253791.jpg", "片名": "活着", "评分": "9.1", "评价": "张艺谋最好的电影。"}
+{"排名": "32", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910926158.jpg", "片名": "搏击俱乐部", "评分": "9.0", "评价": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。"}
+{"排名": "33", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910825503.jpg", "片名": "指环王3：王者无敌", "评分": "9.1", "评价": "史诗的终章。"}
+{"排名": "34", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315672647.jpg", "片名": "疯狂动物城", "评分": "9.1", "评价": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。"}
+{"排名": "35", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg", "片名": "天空之城", "评分": "9.0", "评价": "对天空的追逐，永不停止。 "}
+{"排名": "36", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1280323646.jpg", "片名": "大话西游之月光宝盒", "评分": "8.9", "评价": "旷古烁今。"}
+{"排名": "37", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg", "片名": "罗马假日", "评分": "8.9", "评价": "爱情哪怕只有一天。"}
+{"排名": "38", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364094053.jpg", "片名": "飞屋环游记", "评分": "8.9", "评价": "最后那些最无聊的事情，才是最值得怀念的。 "}
+{"排名": "39", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg", "片名": "控方证人", "评分": "9.6", "评价": "比利·怀德满分作品。"}
+{"排名": "40", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg", "片名": "窃听风暴", "评分": "9.1", "评价": "别样人生。"}
+{"排名": "41", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg", "片名": "两杆大烟枪", "评分": "9.1", "评价": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。"}
+{"排名": "42", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg", "片名": "飞越疯人院", "评分": "9.0", "评价": "自由万岁。"}
+{"排名": "43", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p925123037.jpg", "片名": "闻香识女人", "评分": "8.9", "评价": "史上最美的探戈。"}
+{"排名": "44", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg", "片名": "哈尔的移动城堡", "评分": "8.9", "评价": "带着心爱的人在天空飞翔。"}
+{"排名": "45", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg", "片名": "辩护人", "评分": "9.2", "评价": "电影的现实意义大过电影本身。"}
+{"排名": "46", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455222172.jpg", "片名": "海豚湾", "评分": "9.3", "评价": "海豚的微笑，是世界上最高明的伪装。"}
+{"排名": "47", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1465235231.jpg", "片名": "V字仇杀队", "评分": "8.8", "评价": "一张面具背后的理想与革命。"}
+{"排名": "48", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824340.jpg", "片名": "死亡诗社", "评分": "9.0", "评价": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。"}
+{"排名": "49", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg", "片名": "教父2", "评分": "9.1", "评价": "优雅的孤独。"}
+{"排名": "50", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg", "片名": "美丽心灵", "评分": "8.9", "评价": "爱是一切逻辑和原由。"}
+{"排名": "51", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg", "片名": "指环王2：双塔奇兵", "评分": "9.0", "评价": "承前启后的史诗篇章。"}
+{"排名": "52", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1354436051.jpg", "片名": "指环王1：魔戒再现", "评分": "8.9", "评价": "传说的开始。"}
+{"排名": "53", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg", "片名": "饮食男女", "评分": "9.1", "评价": "人生不能像做菜，把所有的料都准备好了才下锅。"}
+{"排名": "54", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg", "片名": "摔跤吧！爸爸", "评分": "9.1", "评价": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。"}
+{"排名": "55", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg", "片名": "情书", "评分": "8.8", "评价": "暗恋的极致。"}
+{"排名": "56", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg", "片名": "美国往事", "评分": "9.1", "评价": "往事如烟，无处祭奠。"}
+{"排名": "57", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg", "片名": "狮子王", "评分": "8.9", "评价": "动物版《哈姆雷特》。"}
+{"排名": "58", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792484461.jpg", "片名": "钢琴家", "评分": "9.0", "评价": "音乐能化解仇恨。"}
+{"排名": "59", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg", "片名": "素媛", "评分": "9.1", "评价": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。"}
+{"排名": "60", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p803896904.jpg", "片名": "天使爱美丽", "评分": "8.7", "评价": "法式小清新。 "}
+{"排名": "61", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173580603.jpg", "片名": "小鞋子", "评分": "9.2", "评价": "奔跑的孩子是天使。"}
+{"排名": "62", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457631605.jpg", "片名": "七宗罪", "评分": "8.7", "评价": "警察抓小偷，老鼠玩死猫。"}
+{"排名": "63", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453723669.jpg", "片名": "被嫌弃的松子的一生", "评分": "8.9", "评价": "以戏谑来戏谑戏谑。"}
+{"排名": "64", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg", "片名": "致命魔术", "评分": "8.8", "评价": "孪生蝙蝠侠大战克隆金刚狼。"}
+{"排名": "65", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg", "片名": "本杰明·巴顿奇事", "评分": "8.8", "评价": "在时间之河里感受溺水之苦。"}
+{"排名": "66", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg", "片名": "音乐之声", "评分": "8.9", "评价": "用音乐化解仇恨，让歌声串起美好。"}
+{"排名": "67", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1374546770.jpg", "片名": "勇敢的心", "评分": "8.8", "评价": "史诗大片的典范。"}
+{"排名": "68", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792400696.jpg", "片名": "西西里的美丽传说", "评分": "8.8", "评价": "美丽无罪。"}
+{"排名": "69", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg", "片名": "剪刀手爱德华", "评分": "8.7", "评价": "浪漫忧郁的成人童话。"}
+{"排名": "70", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg", "片名": "黑客帝国", "评分": "8.8", "评价": "视觉革命。"}
+{"排名": "71", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg", "片名": "低俗小说", "评分": "8.8", "评价": "故事的高级讲法。"}
+{"排名": "72", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg", "片名": "拯救大兵瑞恩", "评分": "8.9", "评价": "美利坚精神输出大片No1."}
+{"排名": "73", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg", "片名": "沉默的羔羊", "评分": "8.7", "评价": "安东尼·霍普金斯的顶级表演。"}
+{"排名": "74", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg", "片名": "让子弹飞", "评分": "8.7", "评价": "你给我翻译翻译，神马叫做TMD的惊喜。"}
+{"排名": "75", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg", "片名": "看不见的客人", "评分": "8.7", "评价": "你以为你以为的就是你以为的。"}
+{"排名": "76", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg", "片名": "蝴蝶效应", "评分": "8.7", "评价": "人的命运被自己瞬间的抉择改变。"}
+{"排名": "77", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p594972928.jpg", "片名": "入殓师", "评分": "8.8", "评价": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。"}
+{"排名": "78", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg", "片名": "春光乍泄", "评分": "8.8", "评价": "爱情纠缠，男女一致。"}
+{"排名": "79", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg", "片名": "大闹天宫", "评分": "9.3", "评价": "经典之作，历久弥新。"}
+{"排名": "80", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452088641.jpg", "片名": "末代皇帝", "评分": "9.0", "评价": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。"}
+{"排名": "81", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1820615077.jpg", "片名": "玛丽和马克思", "评分": "8.9", "评价": "你是我最好的朋友，你是我唯一的朋友 。"}
+{"排名": "82", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg", "片名": "心灵捕手", "评分": "8.8", "评价": "人生中应该拥有这样的一段豁然开朗。"}
+{"排名": "83", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p967457079.jpg", "片名": "阳光灿烂的日子", "评分": "8.8", "评价": "一场华丽的意淫。"}
+{"排名": "84", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1613191025.jpg", "片名": "幽灵公主", "评分": "8.8", "评价": "人与自然的战争史诗。"}
+{"排名": "85", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg", "片名": "第六感", "评分": "8.8", "评价": "深入内心的恐怖，出人意料的结局。"}
+{"排名": "86", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178872593.jpg", "片名": "布达佩斯大饭店", "评分": "8.8", "评价": "小清新的故事里注入了大历史的情怀。"}
+{"排名": "87", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg", "片名": "重庆森林", "评分": "8.7", "评价": "寂寞没有期限。"}
+{"排名": "88", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p804947166.jpg", "片名": "哈利·波特与魔法石", "评分": "8.7", "评价": "童话世界的开端。"}
+{"排名": "89", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg", "片名": "禁闭岛", "评分": "8.7", "评价": "昔日翩翩少年，今日大腹便便。"}
+{"排名": "90", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg", "片名": "狩猎", "评分": "9.0", "评价": "人言可畏。"}
+{"排名": "91", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg", "片名": "猫鼠游戏", "评分": "8.8", "评价": "骗子大师和执著警探的你追我跑故事。 "}
+{"排名": "92", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg", "片名": "大鱼", "评分": "8.7", "评价": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。"}
+{"排名": "93", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453720880.jpg", "片名": "致命ID", "评分": "8.7", "评价": "最不可能的那个人永远是最可能的。"}
+{"排名": "94", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513535588.jpg", "片名": "断背山", "评分": "8.7", "评价": "每个人心中都有一座断背山。"}
+{"排名": "95", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1962839732.jpg", "片名": "甜蜜蜜", "评分": "8.8", "评价": "相逢只要一瞬间，等待却像是一辈子。"}
+{"排名": "96", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1993903133.jpg", "片名": "射雕英雄传之东成西就", "评分": "8.7", "评价": "百看不厌。 "}
+{"排名": "97", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2119675128.jpg", "片名": "一一", "评分": "8.9", "评价": "我们都曾经是一一。"}
+{"排名": "98", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg", "片名": "告白", "评分": "8.7", "评价": "没有一人完全善，也没有一人完全恶。"}
+{"排名": "99", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg", "片名": "加勒比海盗", "评分": "8.6", "评价": "约翰尼·德普的独角戏。"}
+{"排名": "100", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg", "片名": "阳光姐妹淘", "评分": "8.8", "评价": "再多各自牛逼的时光，也比不上一起傻逼的岁月。 "}
+{"排名": "101", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg", "片名": "穿条纹睡衣的男孩", "评分": "8.9", "评价": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。"}
+{"排名": "102", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173707976.jpg", "片名": "摩登时代", "评分": "9.2", "评价": "大时代中的人生，小人物的悲喜。"}
+{"排名": "103", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg", "片名": "上帝之城", "评分": "8.9", "评价": "被上帝抛弃了的上帝之城。"}
+{"排名": "104", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p492458287.jpg", "片名": "阿凡达", "评分": "8.6", "评价": "绝对意义上的美轮美奂。"}
+{"排名": "105", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452582315.jpg", "片名": "爱在黎明破晓前", "评分": "8.7", "评价": "缘分是个连绵词，最美不过一瞬。"}
+{"排名": "106", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg", "片名": "消失的爱人", "评分": "8.7", "评价": "年度最佳date movie。"}
+{"排名": "107", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg", "片名": "风之谷", "评分": "8.8", "评价": "动画片的圣经。"}
+{"排名": "108", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910924055.jpg", "片名": "爱在日落黄昏时", "评分": "8.7", "评价": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。"}
+{"排名": "109", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg", "片名": "侧耳倾听", "评分": "8.8", "评价": "少女情怀总是诗。"}
+{"排名": "110", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg", "片名": "超脱", "评分": "8.8", "评价": "穷尽一生，我们要学会的，不过是彼此拥抱。"}
+{"排名": "111", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p672363704.jpg", "片名": "红辣椒", "评分": "8.9", "评价": "梦的勾结。"}
+{"排名": "112", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg", "片名": "恐怖直播", "评分": "8.7", "评价": "恐怖分子的“秋菊打官司”。"}
+{"排名": "113", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg", "片名": "倩女幽魂", "评分": "8.6", "评价": "两张绝世的脸。 "}
+{"排名": "114", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221319641.jpg", "片名": "小森林 夏秋篇", "评分": "8.9", "评价": "那些静得只能听见呼吸的日子里，你明白孤独即生活。"}
+{"排名": "115", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1043597424.jpg", "片名": "喜剧之王", "评分": "8.6", "评价": "我是一个演员。"}
+{"排名": "116", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450042258.jpg", "片名": "驯龙高手", "评分": "8.7", "评价": "和谐的生活离不开摸头与被摸头。"}
+{"排名": "117", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p751835224.jpg", "片名": "菊次郎的夏天", "评分": "8.7", "评价": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。"}
+{"排名": "118", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792263736.jpg", "片名": "幸福终点站", "评分": "8.7", "评价": "有时候幸福需要等一等。 "}
+{"排名": "119", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237136718.jpg", "片名": "萤火虫之墓", "评分": "8.7", "评价": "幸福是生生不息，却难以触及的远。 "}
+{"排名": "120", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg", "片名": "借东西的小人阿莉埃蒂", "评分": "8.7", "评价": "曾经的那段美好会沉淀为一辈子的记忆。"}
+{"排名": "121", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg", "片名": "岁月神偷", "评分": "8.6", "评价": "岁月流逝，来日可追。"}
+{"排名": "122", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p647099823.jpg", "片名": "七武士", "评分": "9.2", "评价": "时代悲歌。"}
+{"排名": "123", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480225538.jpg", "片名": "杀人回忆", "评分": "8.7", "评价": "关于连环杀人悬案的集体回忆。"}
+{"排名": "124", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg", "片名": "神偷奶爸", "评分": "8.5", "评价": "Mr. I Don&#39;t Care其实也有Care的时候。"}
+{"排名": "125", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173713676.jpg", "片名": "喜宴", "评分": "8.8", "评价": "中国家庭的喜怒哀乐忍。"}
+{"排名": "126", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg", "片名": "贫民窟的百万富翁", "评分": "8.5", "评价": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁"}
+{"排名": "127", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2163771304.jpg", "片名": "电锯惊魂", "评分": "8.7", "评价": "真相就在眼前。"}
+{"排名": "128", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg", "片名": "真爱至上", "评分": "8.5", "评价": "爱，是个动词。"}
+{"排名": "129", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg", "片名": "谍影重重3", "评分": "8.7", "评价": "像吃了苏打饼一样干脆的电影。"}
+{"排名": "130", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p497010372.jpg", "片名": "海洋", "评分": "9.0", "评价": "大海啊，不全是水。"}
+{"排名": "131", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg", "片名": "东邪西毒", "评分": "8.6", "评价": "电影诗。"}
+{"排名": "132", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg", "片名": "怪兽电力公司", "评分": "8.6", "评价": "不要给它起名字，起了名字就有感情了。"}
+{"排名": "133", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg", "片名": "记忆碎片", "评分": "8.5", "评价": "一个针管引发的血案。"}
+{"排名": "134", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p942376281.jpg", "片名": "雨人", "评分": "8.6", "评价": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。"}
+{"排名": "135", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p719282906.jpg", "片名": "黑天鹅", "评分": "8.5", "评价": "黑暗之美。"}
+{"排名": "136", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg", "片名": "疯狂原始人", "评分": "8.7", "评价": "老少皆宜，这就是好莱坞动画的魅力。"}
+{"排名": "137", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159368352.jpg", "片名": "卢旺达饭店", "评分": "8.9", "评价": "当这个世界闭上双眼，他却敞开了怀抱。"}
+{"排名": "138", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg", "片名": "燃情岁月", "评分": "8.7", "评价": "传奇，不是每个人都可以拥有。"}
+{"排名": "139", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg", "片名": "虎口脱险", "评分": "8.9", "评价": "永远看不腻的喜剧。"}
+{"排名": "140", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg", "片名": "英雄本色", "评分": "8.6", "评价": "英雄泪短，兄弟情长。 "}
+{"排名": "141", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg", "片名": "小森林 冬春篇", "评分": "8.9", "评价": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。"}
+{"排名": "142", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg", "片名": "7号房的礼物", "评分": "8.7", "评价": "《我是山姆》的《美丽人生》。"}
+{"排名": "143", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg", "片名": "哈利·波特与死亡圣器(下)", "评分": "8.7", "评价": "10年的完美句点。"}
+{"排名": "144", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2275298525.jpg", "片名": "心迷宫", "评分": "8.6", "评价": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。"}
+{"排名": "145", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452005185.jpg", "片名": "傲慢与偏见", "评分": "8.5", "评价": "爱是摈弃傲慢与偏见之后的曙光。"}
+{"排名": "146", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192834364.jpg", "片名": "荒蛮故事", "评分": "8.8", "评价": "始于荒诞，止于更荒诞。"}
+{"排名": "147", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1272904657.jpg", "片名": "萤火之森", "评分": "8.7", "评价": "触不到的恋人。"}
+{"排名": "148", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496940327.jpg", "片名": "海边的曼彻斯特", "评分": "8.6", "评价": "我们都有权利不与自己的过去和解。"}
+{"排名": "149", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg", "片名": "恋恋笔记本", "评分": "8.5", "评价": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 "}
+{"排名": "150", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792403691.jpg", "片名": "完美的世界", "评分": "9.0", "评价": "坏人的好总是比好人的好来得更感人。"}
+{"排名": "151", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg", "片名": "教父3", "评分": "8.8", "评价": "任何信念的力量，都无法改变命运。"}
+{"排名": "152", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2272146906.jpg", "片名": "纵横四海", "评分": "8.7", "评价": "香港浪漫主义警匪动作片的巅峰之作。"}
+{"排名": "153", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg", "片名": "花样年华", "评分": "8.5", "评价": "偷情本没有这样美。"}
+{"排名": "154", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg", "片名": "玩具总动员3", "评分": "8.8", "评价": "跨度十五年的欢乐与泪水。"}
+{"排名": "155", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg", "片名": "请以你的名字呼唤我", "评分": "8.8", "评价": "沉醉在电影的情感和视听氛围中无法自拔。"}
+{"排名": "156", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513567548.jpg", "片名": "猜火车", "评分": "8.5", "评价": "不可猜的青春迷笛。 "}
+{"排名": "157", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg", "片名": "魂断蓝桥", "评分": "8.8", "评价": "中国式内在的美国电影。"}
+{"排名": "158", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg", "片名": "穿越时空的少女", "评分": "8.6", "评价": "爱上未来的你。 "}
+{"排名": "159", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1946455272.jpg", "片名": "唐伯虎点秋香", "评分": "8.4", "评价": "华太师是黄霑，吴镇宇四大才子之一。"}
+{"排名": "160", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg", "片名": "时空恋旅人", "评分": "8.6", "评价": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。"}
+{"排名": "161", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2224568669.jpg", "片名": "超能陆战队", "评分": "8.6", "评价": "Balalala~~~"}
+{"排名": "162", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg", "片名": "雨中曲", "评分": "9.0", "评价": "骨灰级歌舞片。"}
+{"排名": "163", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg", "片名": "蝙蝠侠：黑暗骑士崛起", "评分": "8.6", "评价": "诺兰就是保证。"}
+{"排名": "164", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg", "片名": "二十二", "评分": "8.7", "评价": "有一些东西不应该被遗忘。"}
+{"排名": "165", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg", "片名": "我是山姆", "评分": "8.8", "评价": "爱并不需要智商 。"}
+{"排名": "166", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg", "片名": "人工智能", "评分": "8.6", "评价": "对爱的执着，可以超越一切。"}
+{"排名": "167", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg", "片名": "冰川时代", "评分": "8.4", "评价": "松鼠才是角儿。"}
+{"排名": "168", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg", "片名": "达拉斯买家俱乐部", "评分": "8.7", "评价": "Jared Leto的腿比女人还美！"}
+{"排名": "169", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg", "片名": "浪潮", "评分": "8.7", "评价": "世界离独裁只有五天。"}
+{"排名": "170", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg", "片名": "朗读者", "评分": "8.5", "评价": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 "}
+{"排名": "171", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p470006658.jpg", "片名": "香水", "评分": "8.4", "评价": "一个单凭体香达到高潮的男人。"}
+{"排名": "172", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg", "片名": "爆裂鼓手", "评分": "8.6", "评价": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。"}
+{"排名": "173", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1864872647.jpg", "片名": "罗生门", "评分": "8.7", "评价": "人生的N种可能性。"}
+{"排名": "174", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg", "片名": "未麻的部屋", "评分": "8.8", "评价": "好的剧本是，就算你猜到了结局也猜不到全部。"}
+{"排名": "175", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg", "片名": "阿飞正传", "评分": "8.5", "评价": "王家卫是一种风格，张国荣是一个代表。"}
+{"排名": "176", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189835254.jpg", "片名": "一次别离", "评分": "8.7", "评价": "只有有信仰的人才能说出事实真相。"}
+{"排名": "177", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1150103377.jpg", "片名": "追随", "评分": "8.9", "评价": "诺兰的牛逼来源于内心散发出的恐惧。"}
+{"排名": "178", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg", "片名": "可可西里", "评分": "8.7", "评价": "坚硬的信仰。"}
+{"排名": "179", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2075132390.jpg", "片名": "撞车", "评分": "8.6", "评价": "天使与魔鬼的冲撞。"}
+{"排名": "180", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg", "片名": "恐怖游轮", "评分": "8.3", "评价": "不要企图在重复中寻找已经失去的爱。"}
+{"排名": "181", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1959232369.jpg", "片名": "被解救的姜戈", "评分": "8.6", "评价": "热血沸腾，那个低俗、性感的无耻混蛋又来了。"}
+{"排名": "182", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453719066.jpg", "片名": "战争之王", "评分": "8.6", "评价": "做一颗让别人需要你的棋子。"}
+{"排名": "183", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1973489335.jpg", "片名": "地球上的星星", "评分": "8.8", "评价": "天使保护事件始末。"}
+{"排名": "184", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg", "片名": "血战钢锯岭", "评分": "8.6", "评价": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。"}
+{"排名": "185", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p884936202.jpg", "片名": "梦之安魂曲", "评分": "8.7", "评价": "一场没有春天的噩梦。"}
+{"排名": "186", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg", "片名": "头脑特工队", "评分": "8.7", "评价": "愿我们都不用长大，每一座城堡都能永远存在。"}
+{"排名": "187", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg", "片名": "房间", "评分": "8.8", "评价": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。"}
+{"排名": "188", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg", "片名": "牯岭街少年杀人事件", "评分": "8.7", "评价": "弱者送给弱者的一刀。"}
+{"排名": "189", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg", "片名": "魔女宅急便", "评分": "8.5", "评价": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。"}
+{"排名": "190", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg", "片名": "谍影重重", "评分": "8.5", "评价": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。"}
+{"排名": "191", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg", "片名": "谍影重重2", "评分": "8.6", "评价": "谁说王家卫镜头很晃？"}
+{"排名": "192", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg", "片名": "惊魂记", "评分": "8.9", "评价": "故事的反转与反转，分裂电影的始祖。"}
+{"排名": "193", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2297934945.jpg", "片名": "忠犬八公物语", "评分": "9.0", "评价": "养狗三日，便会对你终其一生。"}
+{"排名": "194", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg", "片名": "模仿游戏", "评分": "8.6", "评价": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。"}
+{"排名": "195", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584021784.jpg", "片名": "青蛇", "评分": "8.4", "评价": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。"}
+{"排名": "196", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg", "片名": "无人知晓", "评分": "9.0", "评价": "我的平常生活就是他人的幸福。"}
+{"排名": "197", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg", "片名": "再次出发之纽约遇见你", "评分": "8.5", "评价": "爱我就给我看你的播放列表。"}
+{"排名": "198", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910832390.jpg", "片名": "东京物语", "评分": "9.2", "评价": "东京那么大，如果有一天走失了，恐怕一辈子不能再相见。"}
+{"排名": "199", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516566783.jpg", "片名": "哪吒闹海", "评分": "8.9", "评价": "想你时你在闹海。"}
+{"排名": "200", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg", "片名": "一个叫欧维的男人决定去死", "评分": "8.7", "评价": "惠及一生的美丽。"}
+{"排名": "201", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395733377.jpg", "片名": "你的名字。", "评分": "8.4", "评价": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。"}
+{"排名": "202", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522331945.jpg", "片名": "完美陌生人", "评分": "8.6", "评价": "在那片深蓝中，感受来自大海的忧伤寂寞与美丽自由。"}
+{"排名": "204", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.jpg", "片名": "小萝莉的猴神大叔", "评分": "8.5", "评价": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。"}
+{"排名": "206", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p794583044.jpg", "片名": "末路狂花", "评分": "8.7", "评价": "没有了退路，只好飞向自由。"}
+{"排名": "207", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg", "片名": "终结者2：审判日", "评分": "8.6", "评价": "少见的超越首部的续集，动作片中的经典。"}
+{"排名": "208", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg", "片名": "黑客帝国3：矩阵革命", "评分": "8.5", "评价": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。"}
+{"排名": "209", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p982896012.jpg", "片名": "秒速5厘米", "评分": "8.3", "评价": "青春就是放弃和怀念。"}
+{"排名": "210", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg", "片名": "新龙门客栈", "评分": "8.5", "评价": "嬉笑怒骂，调风动月。"}
+{"排名": "211", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg", "片名": "绿里奇迹", "评分": "8.7", "评价": "天使暂时离开。"}
+{"排名": "212", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p769608791.jpg", "片名": "海盗电台", "评分": "8.6", "评价": "生命不止，摇滚不死。"}
+{"排名": "213", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513303986.jpg", "片名": "这个男人来自地球", "评分": "8.5", "评价": "科幻真正的魅力不是视觉效果能取代的。 "}
+{"排名": "214", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p636048104.jpg", "片名": "勇闯夺命岛", "评分": "8.6", "评价": "类型片的极致。 "}
+{"排名": "215", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2099815842.jpg", "片名": "城市之光", "评分": "9.2", "评价": "永远的小人物，伟大的卓别林。"}
+{"排名": "216", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244791866.jpg", "片名": "卡萨布兰卡", "评分": "8.6", "评价": "世界上有那么多女人那么多酒馆，但她偏偏走进我的这家。"}
+{"排名": "217", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p770734475.jpg", "片名": "无耻混蛋", "评分": "8.4", "评价": "昆汀同学越来越变态了，比北野武还杜琪峰。"}
+{"排名": "218", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg", "片名": "初恋这件小事", "评分": "8.3", "评价": "黑小鸭速效美白记。"}
+{"排名": "219", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173855883.jpg", "片名": "变脸", "评分": "8.4", "评价": "当发哥的风衣、墨镜出现在了凯奇身上⋯⋯"}
+{"排名": "220", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg", "片名": "E.T. 外星人", "评分": "8.5", "评价": "生病的E.T.皮肤的颜色就像柿子饼。"}
+{"排名": "221", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p529908155.jpg", "片名": "发条橙", "评分": "8.4", "评价": "我完全康复了。"}
+{"排名": "222", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg", "片名": "爱在午夜降临前", "评分": "8.8", "评价": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。"}
+{"排名": "223", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2101693489.jpg", "片名": "黄金三镖客", "评分": "9.1", "评价": "最棒的西部片。"}
+{"排名": "224", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p571671715.jpg", "片名": "美国丽人", "评分": "8.4", "评价": "每个人的内心都是深不可测的大海。 "}
+{"排名": "225", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p465687407.jpg", "片名": "荒野生存", "评分": "8.6", "评价": "出门必备：本草纲目。"}
+{"排名": "226", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2238274168.jpg", "片名": "迁徙的鸟", "评分": "9.1", "评价": "最美的飞翔。"}
+{"排名": "227", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg", "片名": "无敌破坏王", "评分": "8.6", "评价": "迪士尼和皮克斯拿错剧本的产物。"}
+{"排名": "228", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg", "片名": "疯狂的石头", "评分": "8.3", "评价": "中国版《两杆大烟枪》。"}
+{"排名": "229", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p672446737.jpg", "片名": "步履不停", "评分": "8.8", "评价": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。"}
+{"排名": "230", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2408623752.jpg", "片名": "英国病人", "评分": "8.4", "评价": "In memory, love lives forever..."}
+{"排名": "231", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p532195562.jpg", "片名": "燕尾蝶", "评分": "8.6", "评价": "现实与童话交相辉映的旅程。"}
+{"排名": "232", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p470383576.jpg", "片名": "非常嫌疑犯", "评分": "8.6", "评价": "我不信仰上帝，但我敬畏上帝。"}
+{"排名": "233", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187896711.jpg", "片名": "彗星来的那一夜", "评分": "8.4", "评价": "小成本大魅力。"}
+{"排名": "234", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768879237.jpg", "片名": "国王的演讲", "评分": "8.3", "评价": "皇上无话儿。"}
+{"排名": "235", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1145536386.jpg", "片名": "勇士", "评分": "8.9", "评价": "热血沸腾，相当完美的娱乐拳击大餐。"}
+{"排名": "236", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg", "片名": "血钻", "评分": "8.5", "评价": "每个美丽事物背后都是滴血的现实。"}
+{"排名": "237", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p628364149.jpg", "片名": "叫我第一名", "评分": "8.6", "评价": "乐观比一切都有力量。"}
+{"排名": "238", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2232247487.jpg", "片名": "海街日记", "评分": "8.6", "评价": "大卫·林奇的梦境迷宫。"}
+{"排名": "240", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg", "片名": "聚焦", "评分": "8.8", "评价": "纯净原始的笑与感动。"}
+{"排名": "242", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1538646661.jpg", "片名": "枪火", "评分": "8.6", "评价": "一群演技精湛的戏骨，奉献出一个精致的黑帮小品，成就杜琪峰群戏的巅峰之作。"}
+{"排名": "243", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg", "片名": "我爱你", "评分": "9.0", "评价": "你要相信，这世上真的有爱存在，不管在什么年纪 "}
+{"排名": "244", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p708613284.jpg", "片名": "遗愿清单", "评分": "8.5", "评价": "用剩余不多的时间，去燃烧整个生命。"}
+{"排名": "245", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910900710.jpg", "片名": "黑鹰坠落", "评分": "8.5", "评价": "还原真实而残酷的战争。"}
+{"排名": "246", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2207673537.jpg", "片名": "荒岛余生", "评分": "8.5", "评价": "一个人的独角戏。"}
+{"排名": "247", "图片链接": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2186861098.jpg", "片名": "大卫·戈尔的一生", "评分": "8.6", "评价": "捍卫人权只是信仰，一点不妨碍其行为的残忍。"}
+{"排名": "248", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg", "片名": "千钧一发", "评分": "8.7", "评价": "一部能引人思考的科幻励志片。"}
+{"排名": "249", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584822570.jpg", "片名": "蓝色大门", "评分": "8.3", "评价": "青春的窃窃私语。 "}
+{"排名": "250", "图片链接": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2107418134.jpg", "片名": "爱·回家", "评分": "9.0", "评价": "献给所有外婆的电影。"}

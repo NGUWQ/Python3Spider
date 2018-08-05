@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+weibo.com	FALSE	/	FALSE		YF-Ugrow-G0	ad83bc19c1269e709f753b172bddb094

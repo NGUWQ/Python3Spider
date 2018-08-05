@@ -1,0 +1,72 @@
+{
+  "spider": "universal",
+  "website": "今日头条NBA",
+  "type": "新闻",
+  "index": "http://www.toutiao.com/",
+  "settings": {
+    "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+  },
+  "start_urls": {
+    "type": "static",
+    "value": ["http://www.toutiao.com/ch/nba/"]
+  },
+  "allowed_domains": [
+    "www.toutiao.com"
+  ],
+  "rules": "nba",
+  "item": {
+    "class": "NewsItem",
+    "loader": "NBALoader",
+    "attrs": {
+      "title": [
+        {
+          "method": "xpath",
+          "args": [
+            "//div[@class='article-box']//h1[contains(@class,'article-title')]//text()"
+          ]
+        }
+      ],
+      "url": [
+        {
+          "method": "attr",
+          "args": [
+            "url"
+          ]
+        }
+      ],
+      "text": [
+        {
+          "method": "xpath",
+          "args": [
+            "//div[@class='article-box']//div[contains(@class,'article-content')]//text()"
+          ]
+        }
+      ],
+      "datetime": [
+        {
+          "method": "xpath",
+          "args": [
+            "//div[@class='article-box']//div[contains(@class,'article-sub')]//text()"
+          ],
+          "re": "(\\d+-\\d+-\\d+\\s\\d+:\\d+:\\d+)"
+        }
+      ],
+      "source": [
+        {
+          "method": "xpath",
+          "args": [
+            "//div[@class='article-box']//div[contains(@class,'article-sub')]//text()"
+          ]
+        }
+      ],
+      "website": [
+        {
+          "method": "value",
+          "args": [
+            "今日头条NBA"
+          ]
+        }
+      ]
+    }
+  }
+}

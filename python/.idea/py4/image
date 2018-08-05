@@ -1,0 +1,26 @@
+#从学校网站批量抓取图片
+import requests
+from bs4 import BeautifulSoup as BS
+import re
+import urllib.request
+def gettext(url):
+    try:
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
+        r.encoding = 'utf-8'
+        return r.text
+    except:
+        return ""
+url = "http://www.hugsmxy.com/"
+soup = BS(gettext(url), 'html.parser')
+img = (soup.find_all('img', {"src":re.compile('.png')}))
+imgurl=list()
+i=0
+for imgs in img:
+    imgurl.append(url+(imgs.attrs.get('src')))
+    print(type(imgurl[i]))
+    imgreq = requests.get(imgurl[i])
+    with open(i.__str__()+'.jpg', 'wb') as f:
+        f.write(imgreq.content)
+    i=i+1
+print("have save")

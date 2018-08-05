@@ -1,0 +1,13 @@
+[INFO  - 2018-07-27T01:54:02.902Z] GhostDriver - Main - running on port 57132
+[INFO  - 2018-07-27T01:54:05.020Z] Session [f12ee670-913f-11e8-aa48-edf2d53e5d52] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-27T01:54:05.020Z] Session [f12ee670-913f-11e8-aa48-edf2d53e5d52] - page.customHeaders:  - {}
+[INFO  - 2018-07-27T01:54:05.021Z] Session [f12ee670-913f-11e8-aa48-edf2d53e5d52] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-27T01:54:05.021Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f12ee670-913f-11e8-aa48-edf2d53e5d52
+[ERROR - 2018-07-27T01:54:05.314Z] Session [f12ee670-913f-11e8-aa48-edf2d53e5d52] - page.onError - msg: ReferenceError: Can't find variable: c
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-27T01:54:05.314Z] Session [f12ee670-913f-11e8-aa48-edf2d53e5d52] - page.onError - stack:
+  sendLog (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:4)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:5)
+
+  phantomjs://platform/console++.js:263 in error
